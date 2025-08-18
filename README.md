@@ -168,9 +168,14 @@ Higress would not be possible without the valuable open-source work of projects 
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=alibaba/higress&type=Date)](https://star-history.com/#alibaba/higress&Date)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJerryDaHeLian%2Fhigress.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJerryDaHeLian%2Fhigress?ref=badge_shield)
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
     </a>
 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJerryDaHeLian%2Fhigress.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJerryDaHeLian%2Fhigress?ref=badge_large)
